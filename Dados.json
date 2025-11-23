@@ -1,0 +1,919 @@
+[
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 5090", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "32GB",
+        "Tipo": "GDDR7",
+        "MarcasParceiras": {
+            "ASUS": { 
+                "3 Fans": [
+                    { 
+                        "Nome": "ROG Strix", 
+                        "PrecoRecomendado": "R$ 15.200,00",
+                        "Lojas": { 
+                            "Pichau": { "PrecoAtual": "R$ 15.499,99", "UrlProduto": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-5090-rog-strix-oc-24gb" },
+                            "Kabum": { "PrecoAtual": "R$ 15.599,99", "UrlProduto": "https://www.kabum.com.br/produto/123/placa-de-video-asus-geforce-rtx-5090-rog-strix-oc" },
+                            "TerabyteShop": { "PrecoAtual": "R$ 15.399,99", "UrlProduto": "https://www.terabyteshop.com.br/produto/456/placa-de-video-asus-geforce-rtx-5090-24gb-gddr7-rog-strix-oc" }
+                        } 
+                    },
+                    { "Nome": "TUF Gaming", "PrecoRecomendado": "R$ 14.800,00", "Lojas": { "Pichau": { "PrecoAtual": "R$ 14.999,99", "UrlProduto": "#" } } },
+                    { "Nome": "Prime", "PrecoRecomendado": "R$ 14.500,00", "Lojas": { "TerabyteShop": { "PrecoAtual": "R$ 14.599,99", "UrlProduto": "#" } } }
+                ] 
+            },
+            "Gigabyte": { 
+                "3 Fans": [
+                    { 
+                        "Nome": "AORUS", 
+                        "PrecoRecomendado": "R$ 15.100,00",
+                        "Lojas": { 
+                            "Pichau": { "PrecoAtual": "R$ 15.299,99", "UrlProduto": "#" }, 
+                            "TerabyteShop": { "PrecoAtual": "R$ 15.199,99", "UrlProduto": "#" } 
+                        } 
+                    },
+                    { "Nome": "Gaming OC", "PrecoRecomendado": "R$ 14.700,00", "Lojas": { "Kabum": { "PrecoAtual": "R$ 14.899,99", "UrlProduto": "#" } } }
+                ] 
+            },
+            "MSI": { 
+                "3 Fans": [
+                    { 
+                        "Nome": "Suprim", 
+                        "PrecoRecomendado": "R$ 15.600,00",
+                        "Lojas": { 
+                            "Pichau": { "PrecoAtual": "R$ 15.799,99", "UrlProduto": "#" }, 
+                            "Kabum": { "PrecoAtual": "R$ 15.899,99", "UrlProduto": "#" } 
+                        } 
+                    },
+                    { "Nome": "Gaming X Trio", "PrecoRecomendado": "R$ 15.000,00", "Lojas": { "TerabyteShop": { "PrecoAtual": "R$ 15.199,99", "UrlProduto": "#" } } }
+                ] 
+            },
+            "Zotac": { "3 Fans": ["AMP Extreme", "Trinity"] } 
+        },
+        "Lojas": {
+            "Pichau": "https://www.pichau.com.br/search?q=GeForce%20RTX%205090",
+            "Kabum": "https://www.kabum.com.br/busca/geforce-rtx-5090",
+            "TerabyteShop": "https://www.terabyteshop.com.br/busca?termo=geforce+rtx+5090"
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 5080", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "20GB",
+        "Tipo": "GDDR7",
+        "MarcasParceiras": {
+            "ASUS": { "3 Fans": ["ROG Strix", "TUF Gaming", "ProArt"] },
+            "Gigabyte": { "3 Fans": ["AORUS", "Gaming OC", "AERO"] },
+            "MSI": { "3 Fans": ["Suprim", "Gaming X Trio", "Ventus"] },
+            "Zotac": { "3 Fans": ["AMP Extreme", "Trinity"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 5070", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "12GB a 16GB",
+        "Tipo": "GDDR7",
+        "Versoes": [
+            { "Nome": "5070 12GB", "Quantidade": "12GB", "Tipo": "GDDR7" },
+            { "Nome": "5070 Ti 16GB", "Quantidade": "16GB", "Tipo": "GDDR7" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "2 Fans": ["Dual"], "3 Fans": ["ROG Strix", "TUF Gaming", "Prime"] },
+            "Gigabyte": { "3 Fans": ["AORUS", "Gaming OC", "Windforce"] },
+            "MSI": { "2 Fans": ["Ventus 2X"], "3 Fans": ["Gaming X Trio"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 5060", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "8GB a 16GB",
+        "Tipo": "GDDR7",
+        "Versoes": [
+            { "Nome": "5060 8GB", "Quantidade": "8GB", "Tipo": "GDDR7" },
+            { "Nome": "5060 Ti 8GB", "Quantidade": "8GB", "Tipo": "GDDR7" },
+            { "Nome": "5060 Ti 16GB", "Quantidade": "16GB", "Tipo": "GDDR7" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "2 Fans": ["Dual"], "3 Fans": ["ROG Strix", "TUF Gaming", "Prime"] },
+            "Gigabyte": { "2 Fans": ["Eagle"], "3 Fans": ["Gaming OC", "Windforce"] },
+            "MSI": { "2 Fans": ["Ventus 2X"], "3 Fans": ["Gaming X"] },
+            "Zotac": { "2 Fans": ["Twin Edge"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 5050", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "8GB",
+        "Tipo": "GDDR7",
+        "MarcasParceiras": {
+            "ASUS": { "1 Fan": ["Phoenix"], "2 Fans": ["Dual"] },
+            "Gigabyte": { "2 Fans": ["Eagle"] },
+            "MSI": { "2 Fans": ["Ventus 2X"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 4090", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "24GB",
+        "Tipo": "GDDR6X",
+        "MarcasParceiras": {
+            "ASUS": { "3 Fans": ["ROG Strix", "TUF Gaming", "ProArt", "Prime"] },
+            "Gigabyte": { "3 Fans": ["AORUS", "Gaming OC"] },
+            "MSI": { "3 Fans": ["Suprim", "Gaming X Trio"] },
+            "Zotac": { "3 Fans": ["AMP Extreme", "Trinity"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 4080", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "16GB",
+        "Tipo": "GDDR6X",
+        "Versoes": [
+            { "Nome": "4080 16GB", "Quantidade": "16GB", "Tipo": "GDDR6X" },
+            { "Nome": "4080 Super 16GB", "Quantidade": "16GB", "Tipo": "GDDR6X" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "3 Fans": ["ROG Strix", "TUF Gaming", "ProArt", "Prime"] },
+            "Gigabyte": { "3 Fans": ["AORUS", "Gaming OC", "AERO"] },
+            "MSI": { "3 Fans": ["Suprim", "Gaming X Trio", "Ventus"] },
+            "Zotac": { "3 Fans": ["AMP Extreme", "Trinity"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 4070", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "12GB a 16GB",
+        "Tipo": "GDDR6X",
+        "Versoes": [
+            { "Nome": "4070 12GB", "Quantidade": "12GB", "Tipo": "GDDR6X" },
+            { "Nome": "4070 Super 12GB", "Quantidade": "12GB", "Tipo": "GDDR6X" },
+            { "Nome": "4070 Ti 12GB", "Quantidade": "12GB", "Tipo": "GDDR6X" },
+            { "Nome": "4070 Ti Super 16GB", "Quantidade": "16GB", "Tipo": "GDDR6X" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "2 Fans": ["Dual"], "3 Fans": ["ROG Strix", "TUF Gaming", "Prime"] },
+            "Gigabyte": { "3 Fans": ["AORUS", "Gaming OC", "Windforce"] },
+            "MSI": { "2 Fans": ["Ventus 2X"], "3 Fans": ["Gaming X Trio"] },
+            "Zotac": { "2 Fans": ["Twin Edge"], "3 Fans": ["Trinity"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 4060", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "8GB a 16GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "4060 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "4060 Ti 16GB", "Quantidade": "16GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "1 Fan": ["Phoenix"], "2 Fans": ["Dual"], "3 Fans": ["ROG Strix", "TUF Gaming", "Prime"] },
+            "Gigabyte": { "2 Fans": ["Windforce"], "3 Fans": ["Gaming OC", "Eagle"] },
+            "MSI": { "2 Fans": ["Ventus 2X"], "3 Fans": ["Gaming X"] },
+            "Zotac": { "1 Fan": ["Solo"], "2 Fans": ["Twin Edge"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 3090", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "24GB",
+        "Tipo": "GDDR6X",
+        "Versoes": [
+            { "Nome": "3090 24GB", "Quantidade": "24GB", "Tipo": "GDDR6X" },
+            { "Nome": "3090 Ti 24GB", "Quantidade": "24GB", "Tipo": "GDDR6X" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "3 Fans": ["ROG Strix", "TUF Gaming", "Prime"] },
+            "Gigabyte": { "3 Fans": ["AORUS", "Gaming OC"] },
+            "MSI": { "3 Fans": ["Suprim", "Gaming X Trio"] },
+            "Zotac": { "3 Fans": ["AMP Extreme", "Trinity"] },
+            "EVGA": { "3 Fans": ["FTW3", "XC3"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 3080", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "10GB a 12GB",
+        "Tipo": "GDDR6X",
+        "Versoes": [
+            { "Nome": "3080 10GB", "Quantidade": "10GB", "Tipo": "GDDR6X" },
+            { "Nome": "3080 12GB", "Quantidade": "12GB", "Tipo": "GDDR6X" },
+            { "Nome": "3080 Ti 12GB", "Quantidade": "12GB", "Tipo": "GDDR6X" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "3 Fans": ["ROG Strix", "TUF Gaming", "Prime"] },
+            "Gigabyte": { "3 Fans": ["AORUS", "Gaming OC", "Vision"] },
+            "MSI": { "3 Fans": ["Suprim", "Gaming X Trio"] },
+            "Zotac": { "3 Fans": ["AMP Extreme", "Trinity"] },
+            "EVGA": { "3 Fans": ["FTW3", "XC3"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 3070", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "8GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "3070 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "3070 Ti 8GB", "Quantidade": "8GB", "Tipo": "GDDR6X" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "2 Fans": ["Dual"], "3 Fans": ["ROG Strix", "TUF Gaming", "Prime"] },
+            "Gigabyte": { "3 Fans": ["AORUS", "Gaming OC", "Vision"] },
+            "MSI": { "2 Fans": ["Ventus 2X"], "3 Fans": ["Gaming X Trio"] },
+            "Zotac": { "2 Fans": ["Twin Edge"] },
+            "EVGA": { "3 Fans": ["FTW3", "XC3"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 3060", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "8GB a 12GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "3060 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "3060 Ti 12GB", "Quantidade": "12GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "2 Fans": ["Dual"], "3 Fans": ["ROG Strix", "TUF Gaming", "Prime"] },
+            "Gigabyte": { "2 Fans": ["Eagle"], "3 Fans": ["Gaming OC"] },
+            "MSI": { "2 Fans": ["Ventus 2X"], "3 Fans": ["Gaming X"] },
+            "Zotac": { "2 Fans": ["Twin Edge"] },
+            "EVGA": { "2 Fans": ["XC Gaming"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 3050", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "6GB a 8GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "3050 6GB", "Quantidade": "6GB", "Tipo": "GDDR6" },
+            { "Nome": "3050 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "1 Fan": ["Phoenix"], "2 Fans": ["Dual"], "3 Fans": ["ROG Strix"] },
+            "Gigabyte": { "2 Fans": ["Gaming OC", "Eagle"] },
+            "MSI": { "2 Fans": ["Gaming X", "Ventus 2X"] },
+            "Zotac": { "1 Fan": ["Solo"], "2 Fans": ["Twin Edge"] },
+            "EVGA": { "2 Fans": ["XC Gaming"] }
+        }
+        },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 2080", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "8GB a 11GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "2080 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "2080 Super 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "2080 Ti 11GB", "Quantidade": "11GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "2 Fans": ["Dual"], "3 Fans": ["ROG Strix"] },
+            "Gigabyte": { "3 Fans": ["AORUS", "Windforce"] },
+            "MSI": { "3 Fans": ["Gaming X Trio"] },
+            "EVGA": { "3 Fans": ["FTW3", "XC Ultra"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 2070", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "8GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "2070 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "2070 Super 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "2 Fans": ["Dual"], "3 Fans": ["ROG Strix"] },
+            "Gigabyte": { "3 Fans": ["Windforce"] },
+            "MSI": { "3 Fans": ["Gaming Z"] },
+            "EVGA": { "2 Fans": ["XC Ultra"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "GeForce RTX 2060", 
+        "Fabricante": "NVIDIA", 
+        "Quantidade": "6GB a 12GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "2060 6GB", "Quantidade": "6GB", "Tipo": "GDDR6" },
+            { "Nome": "2060 Super 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "2060 12GB", "Quantidade": "12GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "ASUS": { "2 Fans": ["Dual"], "3 Fans": ["ROG Strix"] },
+            "Gigabyte": { "2 Fans": ["Windforce"] },
+            "MSI": { "2 Fans": ["Ventus"] },
+            "EVGA": { "2 Fans": ["KO Ultra"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Arc A770", 
+        "Fabricante": "Intel", 
+        "Quantidade": "8GB a 16GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "A770 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "A770 16GB", "Quantidade": "16GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "ASRock": { "2 Fans": ["Challenger"], "3 Fans": ["Phantom Gaming"] },
+            "Gunnir": { "3 Fans": ["Photon", "Flux"] },
+            "Sparkle": { "3 Fans": ["Titan", "Orc"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Arc A750", 
+        "Fabricante": "Intel", 
+        "Quantidade": "8GB",
+        "Tipo": "GDDR6",
+        "MarcasParceiras": {
+            "ASRock": { "2 Fans": ["Challenger"] },
+            "Gunnir": { "2 Fans": ["Flux"] },
+            "Sparkle": { "2 Fans": ["Orc"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Arc A580", 
+        "Fabricante": "Intel", 
+        "Quantidade": "8GB",
+        "Tipo": "GDDR6",
+        "MarcasParceiras": {
+            "ASRock": { "2 Fans": ["Challenger"] },
+            "Gunnir": { "2 Fans": ["Flux"] },
+            "Sparkle": { "2 Fans": ["Elf"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Arc A380", 
+        "Fabricante": "Intel", 
+        "Quantidade": "6GB",
+        "Tipo": "GDDR6",
+        "MarcasParceiras": {
+            "ASRock": { "1 Fan": ["Challenger"] },
+            "Gunnir": { "2 Fans": ["Photon"] },
+            "Sparkle": { "1 Fan": ["Elf"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Arc B580", 
+        "Fabricante": "Intel", 
+        "Quantidade": "8GB a 12GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "B580 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "B580 12GB", "Quantidade": "12GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "ASRock": { "2 Fans": ["Challenger"] },
+            "Gunnir": { "2 Fans": ["Photon"] },
+            "Sparkle": { "2 Fans": ["Elf"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 9070", 
+        "Fabricante": "AMD", 
+        "Quantidade": "16GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "RX 9070 16GB", "Quantidade": "16GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 9070 XT 16GB", "Quantidade": "16GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "Sapphire": { "3 Fans": ["Nitro+", "Pulse"] },
+            "PowerColor": { "3 Fans": ["Red Devil", "Hellhound"] },
+            "XFX": { "3 Fans": ["Merc", "Qick"] },
+            "ASUS": { "3 Fans": ["ROG Strix", "TUF Gaming"] },
+            "MSI": { "3 Fans": ["Gaming X Trio", "Mech"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 9060", 
+        "Fabricante": "AMD", 
+        "Quantidade": "8GB a 16GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "RX 9060 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 9060 XT 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 9060 XT 16GB", "Quantidade": "16GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "Sapphire": { "2 Fans": ["Pulse"], "3 Fans": ["Nitro+"] },
+            "PowerColor": { "2 Fans": ["Fighter"], "3 Fans": ["Red Devil"] },
+            "XFX": { "2 Fans": ["Qick"], "3 Fans": ["Merc"] },
+            "ASUS": { "2 Fans": ["Dual"], "3 Fans": ["ROG Strix", "TUF Gaming"] },
+            "MSI": { "2 Fans": ["Mech"], "3 Fans": ["Gaming X"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 7900 XT",
+        "Fabricante": "AMD",
+        "Quantidade": "16GB a 24GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "RX 7900 GRE 16GB", "Quantidade": "16GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 7900 XT 20GB", "Quantidade": "20GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 7900 XTX 24GB", "Quantidade": "24GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "Sapphire": { "3 Fans": ["Nitro+", "Pulse"] },
+            "PowerColor": { "3 Fans": ["Red Devil", "Hellhound"] },
+            "XFX": { "3 Fans": ["Merc 310", "Qick 319"] },
+            "ASUS": { "3 Fans": ["ROG Strix", "TUF Gaming"] },
+            "MSI": { "3 Fans": ["Gaming X Trio"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 7800 XT",
+        "Fabricante": "AMD",
+        "Quantidade": "16GB",
+        "Tipo": "GDDR6",
+        "MarcasParceiras": {
+            "Sapphire": { "3 Fans": ["Nitro+", "Pulse"] },
+            "PowerColor": { "3 Fans": ["Red Devil", "Hellhound"] },
+            "XFX": { "3 Fans": ["Merc 319", "Qick 319"] },
+            "ASUS": { "3 Fans": ["ROG Strix", "TUF Gaming", "Prime"] },
+            "MSI": { "3 Fans": ["Gaming X Trio"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 7700 XT",
+        "Fabricante": "AMD",
+        "Quantidade": "12GB a 16GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "RX 7700 XT 12GB", "Quantidade": "12GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 7700 XT 16GB", "Quantidade": "16GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "Sapphire": { "2 Fans": ["Pulse"], "3 Fans": ["Nitro+"] },
+            "PowerColor": { "2 Fans": ["Fighter"], "3 Fans": ["Hellhound"] },
+            "XFX": { "3 Fans": ["Qick 319"] },
+            "ASUS": { "3 Fans": ["TUF Gaming", "Prime"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 7600",
+        "Fabricante": "AMD",
+        "Quantidade": "8GB a 16GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "RX 7600 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 7600 XT 16GB", "Quantidade": "16GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "Sapphire": { "2 Fans": ["Pulse"] },
+            "PowerColor": { "2 Fans": ["Hellhound", "Fighter"] },
+            "XFX": { "2 Fans": ["Qick 308"] },
+            "ASUS": { "2 Fans": ["Dual"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 6900",
+        "Fabricante": "AMD",
+        "Quantidade": "16GB",
+        "Tipo": "GDDR6",
+        "MarcasParceiras": {
+            "Sapphire": { "3 Fans": ["Nitro+", "Toxic"] },
+            "PowerColor": { "3 Fans": ["Red Devil", "Liquid Devil"] },
+            "XFX": { "3 Fans": ["Merc 319"] },
+            "ASUS": { "3 Fans": ["ROG Strix", "TUF Gaming"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 6800",
+        "Fabricante": "AMD",
+        "Quantidade": "16GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "RX 6800 16GB", "Quantidade": "16GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 6800 XT 16GB", "Quantidade": "16GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "Sapphire": { "3 Fans": ["Nitro+", "Pulse"] },
+            "PowerColor": { "3 Fans": ["Red Devil", "Hellhound"] },
+            "XFX": { "3 Fans": ["Merc 319", "Qick 319"] },
+            "ASUS": { "3 Fans": ["ROG Strix", "TUF Gaming"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 6700",
+        "Fabricante": "AMD",
+        "Quantidade": "10GB a 12GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "RX 6700 10GB", "Quantidade": "10GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 6700 XT 12GB", "Quantidade": "12GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 6750 XT 12GB", "Quantidade": "12GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "Sapphire": { "2 Fans": ["Pulse"], "3 Fans": ["Nitro+"] },
+            "PowerColor": { "2 Fans": ["Fighter"], "3 Fans": ["Red Devil", "Hellhound"] },
+            "XFX": { "2 Fans": ["Qick 319"], "3 Fans": ["Merc 319"] },
+            "ASUS": { "2 Fans": ["Dual"], "3 Fans": ["ROG Strix", "Prime"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 6600",
+        "Fabricante": "AMD",
+        "Quantidade": "8GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "RX 6600 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 6600 XT 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 6650 XT 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "Sapphire": { "2 Fans": ["Pulse"] },
+            "PowerColor": { "2 Fans": ["Hellhound", "Fighter"] },
+            "XFX": { "2 Fans": ["Speedster SWFT 210"] },
+            "ASUS": { "2 Fans": ["Dual"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 6500",
+        "Fabricante": "AMD",
+        "Quantidade": "4GB a 8GB",
+        "Tipo": "GDDR6",
+        "Versoes": [
+            { "Nome": "RX 6500 XT 4GB", "Quantidade": "4GB", "Tipo": "GDDR6" },
+            { "Nome": "RX 6500 XT 8GB", "Quantidade": "8GB", "Tipo": "GDDR6" }
+        ],
+        "MarcasParceiras": {
+            "Sapphire": { "1 Fan": ["Pulse"] },
+            "PowerColor": { "1 Fan": ["Fighter"] },
+            "XFX": { "2 Fans": ["Qick 210"] },
+            "ASUS": { "2 Fans": ["TUF Gaming", "Dual"] }
+        }
+    },
+    {
+        "Categoria": "GPU",
+        "GPU": "Radeon RX 6400",
+        "Fabricante": "AMD",
+        "Quantidade": "4GB",
+        "Tipo": "GDDR6",
+        "MarcasParceiras": {
+            "Sapphire": { "1 Fan": ["Pulse"] },
+            "PowerColor": { "1 Fan": ["Fighter"] },
+            "XFX": { "1 Fan": ["Speedster SWFT 105"] }
+        }
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 9 9950X",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "16",
+        "threads": "32",
+        "clock": "4.3GHz a 5.7GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"],
+        "Lojas": {
+            "Pichau": "https://www.pichau.com.br/search?q=Ryzen%209%209950X",
+            "Kabum": "https://www.kabum.com.br/busca/ryzen-9-9950x",
+            "TerabyteShop": "https://www.terabyteshop.com.br/busca?termo=ryzen+9+9950x"
+        }
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 9 9900X",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "12",
+        "threads": "24",
+        "clock": "4.4GHz a 5.6GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 7 9700X",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "8",
+        "threads": "16",
+        "clock": "3.8GHz a 5.5GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 5 9600X",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "6",
+        "threads": "12",
+        "clock": "3.9GHz a 5.4GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 7 8700G",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "8",
+        "threads": "16",
+        "clock": "4.2GHz a 5.1GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 5 8600G",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "6",
+        "threads": "12",
+        "clock": "4.3GHz a 5.0GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 5 8500G",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "6",
+        "threads": "12",
+        "clock": "3.5GHz a 5.0GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 5 8400F",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "6",
+        "threads": "12",
+        "clock": "4.2GHz a 4.7GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 3 8300G",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "4",
+        "threads": "8",
+        "clock": "3.4GHz a 4.9GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 9 7950X",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "16",
+        "threads": "32",
+        "clock": "4.5GHz a 5.7GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 9 7900",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "12",
+        "threads": "24",
+        "clock": "3.7GHz a 5.4GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 7 7800X3D",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "8",
+        "threads": "16",
+        "clock": "4.2GHz a 5.0GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 7 7700",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "8",
+        "threads": "16",
+        "clock": "3.8GHz a 5.3GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 5 7600",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM5",
+        "quantidade de nucleos": "6",
+        "threads": "12",
+        "clock": "3.8GHz a 5.1GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 9 5950X",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM4",
+        "quantidade de nucleos": "16",
+        "threads": "32",
+        "clock": "3.4GHz a 4.9GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 9 5900X",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM4",
+        "quantidade de nucleos": "12",
+        "threads": "24",
+        "clock": "3.7GHz a 4.8GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 7 5800X",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM4",
+        "quantidade de nucleos": "8",
+        "threads": "16",
+        "clock": "3.8GHz a 4.7GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 7 5700X",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM4",
+        "quantidade de nucleos": "8",
+        "threads": "16",
+        "clock": "3.4GHz a 4.6GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 5 5600",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM4",
+        "quantidade de nucleos": "6",
+        "threads": "12",
+        "clock": "3.5GHz a 4.4GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Ryzen 5 5500",
+        "Fabricante": "AMD",
+        "Compatibilidade": "AM4",
+        "quantidade de nucleos": "6",
+        "threads": "12",
+        "clock": "3.6GHz a 4.2GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core Ultra 9 285K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA 1851",
+        "quantidade de nucleos": "24 (8P+16E)",
+        "threads": "24",
+        "clock": "até 5.7GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core Ultra 7 265K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA 1851",
+        "quantidade de nucleos": "20 (8P+12E)",
+        "threads": "20",
+        "clock": "até 5.5GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core Ultra 5 245K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA 1851",
+        "quantidade de nucleos": "14 (6P+8E)",
+        "threads": "14",
+        "clock": "até 5.2GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core i9-14900K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA1700",
+        "quantidade de nucleos": "24 (8P+16E)",
+        "threads": "32",
+        "clock": "até 6.0GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core i7-14700K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA1700",
+        "quantidade de nucleos": "20 (8P+12E)",
+        "threads": "28",
+        "clock": "até 5.6GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core i5-14600K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA1700",
+        "quantidade de nucleos": "14 (6P+8E)",
+        "threads": "20",
+        "clock": "até 5.3GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core i9-13900K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA1700",
+        "quantidade de nucleos": "24 (8P+16E)",
+        "threads": "32",
+        "clock": "até 5.8GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core i7-13700K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA1700",
+        "quantidade de nucleos": "16 (8P+8E)",
+        "threads": "24",
+        "clock": "até 5.4GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core i5-13600K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA1700",
+        "quantidade de nucleos": "14 (6P+8E)",
+        "threads": "20",
+        "clock": "até 5.1GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core i9-12900K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA1700",
+        "quantidade de nucleos": "16 (8P+8E)",
+        "threads": "24",
+        "clock": "até 5.2GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core i7-12700K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA1700",
+        "quantidade de nucleos": "12 (8P+4E)",
+        "threads": "20",
+        "clock": "até 5.0GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    },
+    {
+        "Categoria": "CPU",
+        "CPU": "Core i5-12600K",
+        "Fabricante": "Intel",
+        "Compatibilidade": "LGA1700",
+        "quantidade de nucleos": "10 (6P+4E)",
+        "threads": "16",
+        "clock": "até 4.9GHz",
+        "MarcasParceiras": ["ASUS", "Gigabyte", "MSI", "ASRock", "Biostar"]
+    }
+]
